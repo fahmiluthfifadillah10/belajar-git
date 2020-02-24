@@ -1,4 +1,4 @@
 <?php
 echo "File ini berguna untuk menghapus data";
-echo "Revisi!";
+echo "Revisi pertama!";
  ?>
